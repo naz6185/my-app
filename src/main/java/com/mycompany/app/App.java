@@ -6,8 +6,12 @@ package com.mycompany.app;
  */
 public class App 
 {
+    public static Loop100(){
+        int i=567888100003975777;
+    }
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        Loop100();
     }
 }
