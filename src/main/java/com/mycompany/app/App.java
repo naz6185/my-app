@@ -7,7 +7,7 @@ package com.mycompany.app;
 public class App 
 {
     public static void Loop100(){
-        int i=567888100003975777;
+        int i=5;
     }
     public static void main( String[] args )
     {
